@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6020aac8-a578-4d48-99fc-aecd3c4b160b</dc:identifier>
+        <dc:title>Mind Hacking</dc:title>
+        <dc:creator opf:file-as="Hargrave, John" opf:role="aut">John Hargrave</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Have you ever wished you could reprogram your brain, just as a hacker would a computer? In this 3-step guide to improving your mental habits, learn to take charge of your mind and banish negative thoughts, habits, and anxiety&amp;#8212;in just 21 days!&lt;BR&gt;A seasoned author, comedian, and entrepreneur, Sir John Hargrave once suffered from unhealthy addictions, anxiety, and poor mental health. After cracking the code to unlocking his mind&amp;#8217;s full and balanced potential, his entire life changed for the better. In &lt;i&gt;Mind Hacking&lt;/i&gt;, Hargrave reveals the formula that allowed him to overcome negativity and eliminate mental problems at their core.&lt;BR&gt; &lt;BR&gt; Through a 21-day, 3-step training program, this book lays out a simple yet comprehensive approach to help you rewire your brain and achieve healthier thought patterns for a better quality of life. It hinges on the repetitive steps of analyzing, imagining, and reprogramming to help break down barriers preventing you from reaching...</dc:description>
+        <dc:publisher>Gallery Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781501105678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-25T18:17:00.043489+00:00"/>
+        <meta name="calibre:title_sort" content="Mind Hacking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

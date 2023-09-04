@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0dceb7e-3acc-4228-94d7-02c7b8f5c537</dc:identifier>
+        <dc:title>LinkedIn In 30 Minutes (2nd Edition): How to create a rock-solid LinkedIn profile and build connections that matter</dc:title>
+        <dc:creator opf:file-as="Rose, Angela" opf:role="aut">Angela Rose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;If you're serious about taking your career to the next level, you need to be on LinkedIn®&lt;/strong&gt;. In &lt;em&gt;LinkedIn In 30 Minutes (2nd Edition)&lt;/em&gt;, author Angela Rose will show you how to make a rock-solid LinkedIn profile and expand your network. Whether you want to find a new job on LinkedIn or advance your career, this guide can be the blueprint for a supercharged LinkedIn strategy. This LinkedIn book includes sections on:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;LinkedIn registration and basic profile setup&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nine critical LinkedIn profile elements&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Six additional LinkedIn profile elements you should include&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Why keywords are so important for your LinkedIn profile&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to improve a basic profile&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Real-world examples of successful LinkedIn profiles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to address unemployment on LinkedIn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to connect with other people on LinkedIn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crafting personalized LinkedIn invitations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Connecting with strangers on LinkedIn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other ways to get noticed on LinkedIn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best practices for using LinkedIn’s search engine&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participation strategies for LinkedIn Groups&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Five ways to find a job on LinkedIn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;InMail and other paid LinkedIn services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to turn off LinkedIn notifications&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The revised edition of &lt;em&gt;LinkedIn In 30 Minutes&lt;/em&gt; is for people who are new to LinkedIn, as well as those who have created basic profiles and now want to take their LinkedIn efforts to the next level. While LinkedIn In 30 Minutes is not intended to be a comprehensive guide, it provides a solid foundation of LinkedIn registration basics, critical profile elements, and networking best practices that can help you land a new job or advance your career.   &lt;/p&gt;
+&lt;p&gt;The LinkedIn tutorial is filled with step-by-step instructions written in plain English and a touch of humor. There are lots of screenshots and LinkedIn best practices that you can use to turn an uninspiring profile into a winner!   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the author&lt;/strong&gt;: Angela Rose is a writer and B2C marketing strategist based in Colorado. LinkedIn In 30 Minutes (2nd Edition) is her first book.   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the series&lt;/strong&gt;: Since 2012, In 30 Minutes® guides have helped people all over the world understand complex topics, including technology, medicine, and personal finance. For more information, visit in30minutes.com.   &lt;/p&gt;
+&lt;p&gt;Note: &lt;em&gt;LinkedIn In 30 Minutes&lt;/em&gt; is not affiliated with “For Dummies” books, LinkedIn, or other services referenced in the guide. In 30 Minutes® is a registered trademark of publisher i30 Media Corp. All rights reserved.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>i30 Media</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019EFAI0I</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Job Hunting &amp; Careers</dc:subject>
+        <dc:subject>Social Media</dc:subject>
+        <dc:subject>Resumes</dc:subject>
+        <dc:subject>Business &amp; Money</dc:subject>
+        <dc:subject>Social Media for Business</dc:subject>
+        <dc:subject>Computers &amp; Technology</dc:subject>
+        <dc:subject>90 Minutes (44-64 Pages)</dc:subject>
+        <dc:subject>Internet &amp; Social Media</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-25T18:16:59.955313+00:00"/>
+        <meta name="calibre:title_sort" content="LinkedIn In 30 Minutes (2nd Edition): How to create a rock-solid LinkedIn profile and build connections that matter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>
