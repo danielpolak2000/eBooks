@@ -1,0 +1,5 @@
+.caltrash/
+*.DS_Store
+*metadata.db
+*metadata_db_prefs_backup.json
+Unknown/
