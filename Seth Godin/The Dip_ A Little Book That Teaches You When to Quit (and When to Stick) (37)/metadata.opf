@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaee9f80-b312-4843-82bc-2eb2de19258f</dc:identifier>
+        <dc:title>The Dip: A Little Book That Teaches You When to Quit (and When to Stick)</dc:title>
+        <dc:creator opf:file-as="Godin, Seth" opf:role="aut">Seth Godin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-09T19:30:00+00:00</dc:date>
+        <dc:publisher>Portfolio Hardcover</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000QCSA54</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-19T12:52:24.893976+00:00"/>
+        <meta name="calibre:title_sort" content="Dip: A Little Book That Teaches You When to Quit (and When to Stick), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

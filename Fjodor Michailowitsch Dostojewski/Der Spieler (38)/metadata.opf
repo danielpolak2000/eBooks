@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddc4c726-5f2d-4707-90ca-170fbecc417d</dc:identifier>
+        <dc:title>Der Spieler</dc:title>
+        <dc:creator opf:file-as="Dostojewski, Fjodor Michailowitsch" opf:role="aut">Fjodor Michailowitsch Dostojewski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-10T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Übersetzung von Hermann&lt;strong&gt; &lt;/strong&gt;Röhl, 1881 &lt;/p&gt;
+&lt;p&gt;17 Kapitel&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>deu</dc:language>
+        <dc:subject>Roman</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-09T06:55:16+00:00"/>
+        <meta name="calibre:title_sort" content="Spieler, Der"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ed98259-4ae3-4026-bc4b-faa4ed83e8bb</dc:identifier>
+        <dc:title>Why We Sleep</dc:title>
+        <dc:creator opf:file-as="Walker, Matthew" opf:role="aut">Matthew Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>The first sleep book by a leading scientific expert&amp;#8212;Professor Matthew Walker, Director of UC Berkeley's Sleep and Neuroimaging Lab&amp;#8212;reveals his groundbreaking exploration of sleep, explaining how we can harness its transformative power to change our lives for the better.&lt;BR&gt;Sleep is one of the most important but least understood aspects of our life, wellness, and longevity. Until very recently, science had no answer to the question of why we sleep, or what good it served, or why we suffer such devastating health consequences when we don't sleep. Compared to the other basic drives in life&amp;#8212;eating, drinking, and reproducing&amp;#8212;the purpose of sleep remained elusive.&lt;BR&gt; &lt;BR&gt; But an explosion of scientific discoveries in the last twenty years has shed new light on this fundamental aspect of our lives. Now, preeminent neuroscientist and sleep expert Matthew Walker gives us a new understanding of the vital importance of sleep and dreaming. Among so many other things,...</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781501144332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-16T19:12:37.288412+00:00"/>
+        <meta name="calibre:title_sort" content="Why We Sleep"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

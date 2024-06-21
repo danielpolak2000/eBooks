@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd5664dc-05c2-4b2a-b580-b033d748bc7f</dc:identifier>
+        <dc:title>How to Grow Your Small Business</dc:title>
+        <dc:creator opf:file-as="Miller, Donald" opf:role="aut">Donald Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;For so many entrepreneurs, running a small business ended up looking different than they imagined. They're stressed, discouraged, and not confident in their plan for growth. In How to Grow Your Small Business, Donald Miller gives entrepreneurs a 6-step plan to grow their businesses so they produce dependable, predictable results.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Using the exact steps you'll learn in this book, Donald Miller grew his small business from four employees working out of a basement to a 15 million dollar operation, increasing revenue sixfold in just six years.As Miller grew his own business from the ground up, he realized nobody had put together a simple, step-by-step playbook for growing a business. That book didn't exist. Until now.&lt;/p&gt;&lt;p&gt;In this book, you'll learn the 6 steps to grow a successful small business and create a playbook to implement them- your Flight Plan. When you have a completed Flight Plan in hand, you can stop drowning in the details and spend more time...</dc:description>
+        <dc:publisher>Harpercollins Leadership</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-21T17:10:19.263689+00:00"/>
+        <meta name="calibre:title_sort" content="How to Grow Your Small Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

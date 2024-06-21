@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">391256cb-f545-411a-9768-4bfe26f8328b</dc:identifier>
+        <dc:title>Attached</dc:title>
+        <dc:creator opf:file-as="Levine, Amir" opf:role="aut">Amir Levine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Is there a science to love? &lt;p&gt;In this groundbreaking book, psychiatrist and neuroscientist Amir Levine and psychologist Rachel S. F. Heller reveal how an understanding of attachment theory-the most advanced relationship science in existence today-can help us find and sustain love. Attachment theory forms the basis for many bestselling books on the parent/child relationship, but there has yet to be an accessible guide to what this fascinating science has to tell us about adult romantic relationships-until now.&lt;p&gt;Attachment theory owes its inception to British psychologist and psychoanalyst John Bowlby, who in the 1950s examined the tremendous impact that our early relationships with our parents or caregivers has on the people we become. Also central to attachment theory is the discovery that our need to be in a close relationship with one or more individuals is embedded in our genes.&lt;p&gt;In Attached, Levine and Heller trace how these evolutionary influences continue to shape who...</dc:description>
+        <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101475164</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-07T07:10:00.152975+00:00"/>
+        <meta name="calibre:title_sort" content="Attached"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>
